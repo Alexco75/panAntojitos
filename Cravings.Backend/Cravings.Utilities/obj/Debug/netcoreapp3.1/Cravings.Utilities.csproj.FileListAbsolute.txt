@@ -1,0 +1,15 @@
+C:\Taller Antojitos\Cravings.Utilities\bin\Debug\netcoreapp3.1\Cravings.Utilities.deps.json
+C:\Taller Antojitos\Cravings.Utilities\bin\Debug\netcoreapp3.1\Cravings.Utilities.dll
+C:\Taller Antojitos\Cravings.Utilities\bin\Debug\netcoreapp3.1\Cravings.Utilities.pdb
+C:\Taller Antojitos\Cravings.Utilities\obj\Debug\netcoreapp3.1\Cravings.Utilities.AssemblyInfoInputs.cache
+C:\Taller Antojitos\Cravings.Utilities\obj\Debug\netcoreapp3.1\Cravings.Utilities.AssemblyInfo.cs
+C:\Taller Antojitos\Cravings.Utilities\obj\Debug\netcoreapp3.1\Cravings.Utilities.dll
+C:\Taller Antojitos\Cravings.Utilities\obj\Debug\netcoreapp3.1\Cravings.Utilities.pdb
+C:\Taller Antojitos\Cravings.Utilities\obj\Debug\netcoreapp3.1\Cravings.Utilities.csprojAssemblyReference.cache
+C:\Taller Antojitos\cravings.project\Cravings.Backend\Cravings.Utilities\bin\Debug\netcoreapp3.1\Cravings.Utilities.deps.json
+C:\Taller Antojitos\cravings.project\Cravings.Backend\Cravings.Utilities\bin\Debug\netcoreapp3.1\Cravings.Utilities.dll
+C:\Taller Antojitos\cravings.project\Cravings.Backend\Cravings.Utilities\bin\Debug\netcoreapp3.1\Cravings.Utilities.pdb
+C:\Taller Antojitos\cravings.project\Cravings.Backend\Cravings.Utilities\obj\Debug\netcoreapp3.1\Cravings.Utilities.AssemblyInfoInputs.cache
+C:\Taller Antojitos\cravings.project\Cravings.Backend\Cravings.Utilities\obj\Debug\netcoreapp3.1\Cravings.Utilities.AssemblyInfo.cs
+C:\Taller Antojitos\cravings.project\Cravings.Backend\Cravings.Utilities\obj\Debug\netcoreapp3.1\Cravings.Utilities.dll
+C:\Taller Antojitos\cravings.project\Cravings.Backend\Cravings.Utilities\obj\Debug\netcoreapp3.1\Cravings.Utilities.pdb

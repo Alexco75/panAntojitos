@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cravings.OrmEntityFramework.Dal\Cravings.OrmEntityFramework.Dal.csproj" />
+    <ProjectReference Include="..\Cravings.Utilities\Cravings.Utilities.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="GnlValidators">
+      <HintPath>..\..\..\..\Sharing\SVN\NET\LibreriasGenericas.Net\Dll\GnlValidators.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
